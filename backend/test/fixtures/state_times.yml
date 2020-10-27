@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  uf: MyString
+  state: MyString
+  cases: MyString
+  deaths: MyString
+  date: MyString
+
+two:
+  uf: MyString
+  state: MyString
+  cases: MyString
+  deaths: MyString
+  date: MyString

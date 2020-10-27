@@ -1,0 +1,2 @@
+class StateTime < ApplicationRecord
+end
